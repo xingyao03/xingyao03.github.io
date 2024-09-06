@@ -4,6 +4,7 @@ type: essay
 title: "Starting Over"
 # All dates must be YYYY-MM-DD format!
 date: 2024-08-05
+published: true
 labels:
   - TypeScript
 ---
