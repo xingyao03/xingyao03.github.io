@@ -8,7 +8,7 @@ labels:
   - TypeScript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/45C7305A-B65C-492B-A7B5-1D497E6ED2B8_1_201_a.jpeg">
 
 With the experience with languages such as Java, C/C++, and python, I would say that Typescript is not that unfamiliar to me. I have noticed that many of these languages share the same or similar syntax and the way they work. Common things are like the “If-else statements” and loops such as the “for-loop.” Afterall, there are also slight differences in how a variable is declared in Typescript. I have not gotten used yet to having to declare a variable using “let” and “const” instead of “string” and “int.”
 
