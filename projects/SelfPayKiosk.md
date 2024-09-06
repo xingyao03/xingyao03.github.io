@@ -9,6 +9,7 @@ labels:
 summary: "A self pay kiosk program created in ICS 211."
 ---
 
+<img width="200px" class="rounded float-start pe-4" src="../img/5D80B866-6763-4ACB-BA90-6A1E03CD4887_4_5005_c.jpeg">
 
 The program is designed to support basic operations such as scan item, cancel transaction, checkout, make payment and etc. I worked independently on this project. 
 
