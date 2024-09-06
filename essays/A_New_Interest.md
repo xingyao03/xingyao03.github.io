@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "A New Interest"
 # All dates must be YYYY-MM-DD format!
-date: 2024
+date: 2024-08-05
 labels:
   - Career
   - Learning
