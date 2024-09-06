@@ -10,7 +10,7 @@ labels:
   - College
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/87722C31-77DE-4E5A-BBFB-BEDB28B35B6C_1_201_a.jpeg">
 
 The most profound question that I remember while growing up was, “What kind of career/job do you want to pursue in the future?” While growing up, I developed many interests in the artistic fields, including painting, drawing, and dancing, in which I thought that I might end up in the field of arts. Then one day, I was introduced by my friends to a dressing game and slowly became obsessed with it. I started looking up strategies online on how to pass a “level” in the game, and I remember coming across a video where I saw someone do something with lines of code. This was also my first time seeing code. But at that time I was not interested at all because I could not interpret the code.
 
