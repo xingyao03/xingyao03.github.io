@@ -11,6 +11,7 @@ summary: "This is a mini program made in my ICS 211 lab calculating the tax depe
 
 This program takes in user input to calculates U.S. income tax owned given wages, taxable interests, umemployment compensation, status, and taxes withheld. Within the program, there are multiple functions each completing a different task and building ontop of another.
 
+
 Below is part of the code that calculates the adjusted gross income:
 
 ```Java
