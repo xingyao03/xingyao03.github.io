@@ -6,10 +6,11 @@ title: "IncomeTaxForm"
 date: 2023-08-02
 labels:
   - Java
-<img width="200px" class="rounded float-start pe-4" src="../img/22F2BB4A-1720-4943-8042-A404A8A8C691.jpeg">
-
+    
 summary: "This is a mini program made in my ICS 211 lab calculating the tax depending on status of the input information."
 ---
+
+<img width="200px" class="rounded float-start pe-4" src="../img/22F2BB4A-1720-4943-8042-A404A8A8C691.jpeg">
 
 This program takes in user input to calculates U.S. income tax owned given wages, taxable interests, umemployment compensation, status, and taxes withheld. Within the program, there are multiple functions each completing a different task and building ontop of another.
 
