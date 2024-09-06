@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Income_Tax_Form"
+title: "IncomeTaxForm"
 date: 2023-08-02
 labels:
   - Java
