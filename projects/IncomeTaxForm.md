@@ -6,6 +6,9 @@ title: "IncomeTaxForm"
 date: 2023-08-02
 labels:
   - Java
+
+<img width="200px" class="rounded float-start pe-4" src="../img/22F2BB4A-1720-4943-8042-A404A8A8C691.jpeg">
+
 summary: "This is a mini program made in my ICS 211 lab calculating the tax depending on status of the input information."
 ---
 
