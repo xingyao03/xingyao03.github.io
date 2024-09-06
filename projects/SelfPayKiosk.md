@@ -4,6 +4,7 @@ type: project
 image: img/E21AD2C3-14C7-43EE-9343-4E5B4D044E72_1_201_a.jpeg
 title: "SelfPayKiosk"
 date: 2023-08-10
+published: true
 labels:
   - Java
 summary: "A self pay kiosk program created in ICS 211."
