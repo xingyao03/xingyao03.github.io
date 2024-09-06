@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/AC08002C-76DA-475C-A2F8-62DFFD27D3EE_1_201_a.jpeg
 title: "IncomeTaxForm"
 date: 2023-08-02
 labels:
