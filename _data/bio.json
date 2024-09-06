@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "xingyao03", "url": "http://github.com/xingyao03" },
-      { "network": "linkedin", "username": "Xingyao He", "url": "www.linkedin.com/in/xingyao-he" }
+      { "network": "linkedin", "username": "Xingyao He", "url": "https://www.linkedin.com/in/xingyao-he/" }
     ]
   },
   "interests": [
