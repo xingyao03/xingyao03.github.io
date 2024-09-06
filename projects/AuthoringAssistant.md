@@ -4,6 +4,7 @@ type: project
 image: img/AA071639-CC7B-47B2-AF6B-D99F9D003366_4_5005_c.jpeg
 title: "AuthoringAssistant"
 date: 2023-08-05
+published: true
 labels:
   - Java
 summary: "A lab done in ICS 211 which examines user input."
