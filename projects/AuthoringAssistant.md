@@ -10,7 +10,9 @@ summary: "A lab done in ICS 211 which examines user input."
 ---
 
 
-In this lab program, the user input is taken in first and then a menu is printed with options to analyze and edit the input. In this lab I learned a lot of other methods that were really helpful tools such as "replaceAll" and "toLowerCase()." 
+In this lab program, the user input is taken in first and then a menu is printed with options to analyze and edit the input. In the menu, options include finding the number of non-white space characters, number of words, finding text, and etc.
+
+I worked independently on this project. I learned a lot of other methods that were really helpful tools such as "replaceAll" and "toLowerCase()." The main method was much more cleaner with a menu method that takes care of printing the menu and calling another method upon request.
 
 
 Below is the part that shows finding the number of times a character is found:
