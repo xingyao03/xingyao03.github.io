@@ -4,6 +4,7 @@ type: essay
 title: "A New Interest"
 # All dates must be YYYY-MM-DD format!
 date: 2024-08-05
+published: true
 labels:
   - Career
   - Learning
