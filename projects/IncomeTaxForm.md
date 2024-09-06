@@ -11,7 +11,7 @@ summary: "This is a mini program made in my ICS 211 lab calculating the tax depe
 
 This program takes in user input to calculates U.S. income tax owned given wages, taxable interests, umemployment compensation, status, and taxes withheld. Within the program, there are multiple functions each completing a different task and building ontop of another.
 
-
+I took full responsibility of the project and from this project I learned how to format my string when there are numbers involved. I learned to use methods from the Math class such as MATh.abs() which returns an absolute value of the input. I also learned to choose the right declaration of varaible when there are decimal points invovled, such as using double instead of integer.
 
 
 Below is part of the code that calculates the adjusted gross income:
