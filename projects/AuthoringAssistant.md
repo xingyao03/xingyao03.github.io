@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/AA071639-CC7B-47B2-AF6B-D99F9D003366_4_5005_c.jpeg
 title: "AuthoringAssistant"
 date: 2023-08-05
 labels:
