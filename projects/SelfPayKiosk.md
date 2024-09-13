@@ -12,12 +12,14 @@ summary: "A self pay kiosk program created in ICS 211."
 
 <img width="200px" class="rounded float-start pe-4" src="../img/5D80B866-6763-4ACB-BA90-6A1E03CD4887_4_5005_c.jpeg">
 
-The program is designed to support basic operations such as scan item, cancel transaction, checkout, make payment and etc. I worked independently on this project. 
+# **Summary of Project**
+A self pay kiosk program created in ICS 211. The program is designed to support basic operations such as scan item, cancel transaction, checkout, make payment and etc. 
 
-In this program, it is the first time I experimented with the main class separated from the SelfPayKiosk class. I learned a lot on the way trying to make sense of how the different classes worked on their own and puting everything together. I learned to use the keyword "final" when I want the varaible to be fixed and not changeable. With two seperate classes the code is much more readable and organized.
+# **Role & What I learned**
+I took full responsibility and worked indepedently on this project. In this program, it is the first time I experimented with the main class separated from the SelfPayKiosk class. I learned a lot on the way trying to make sense of how the different classes worked on their own and puting everything together. I learned to use the keyword "final" when I want the varaible to be fixed and not changeable. With two seperate classes the code is much more readable and organized.
 
 
-Below is a part of the code that shows applying payment to amount due:
+**Below is a part of the code that shows applying payment to amount due:**
 
 ```Java
 public void makePayment(double payment) {
