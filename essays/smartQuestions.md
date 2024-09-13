@@ -11,7 +11,7 @@ labels:
   - Ask Questions
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/45C7305A-B65C-492B-A7B5-1D497E6ED2B8_1_201_a.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/D29BCE95-CA97-421E-B244-AEA67F28B1A4_1_201_a.jpeg">
 
 
 # **Smart Way to Ask**
