@@ -12,11 +12,7 @@ labels:
   - Learning to Code
 ---
 
-<img width="1200px" class="rounded float-start pe-4" src="../img/6C7BDEDD-3CC0-406B-8FF4-B8F128E4E6E7_4_5005_c.jpeg">
-
-
-
-
+!<img width="1200px" class="rounded float-start pe-4" src="../img/6C7BDEDD-3CC0-406B-8FF4-B8F128E4E6E7_4_5005_c.jpeg">
 
 
 
