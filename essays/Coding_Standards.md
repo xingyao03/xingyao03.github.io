@@ -14,7 +14,9 @@ labels:
 
 <img width="1200px" class="rounded float-start pe-4" src="../img/6C7BDEDD-3CC0-406B-8FF4-B8F128E4E6E7_4_5005_c.jpeg">  
 
-## First Impression
+
+
+  ## First Impression
 I view coding standards as a valuable and crucial aspect of software development. At the beginning of getting in touch with code, I did not entirely think this way. I had a very vivid understanding of coding standards, and thought they were just “comments” to make code readable and collaborative. This in fact is true, but was just one of the many guidelines of coding standards. 
 
 ## What Changed?
