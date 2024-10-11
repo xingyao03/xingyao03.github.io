@@ -20,8 +20,7 @@ Working with html and css I felt that I had full control of the final product. I
 # UI Framework
 UI Frameworks are useful tools to help build user interfaces for web and mobile applications. I’ve noticed that using UI frameworks such as bootstrap helps maintain a consistent scaling and layout of elements. For example, when the web page shrinks, the navigation transforms into a ‘hamburger’ menu, whereas with basic HTML elements become squished and misaligned. I am sure there are many other benefits that come with the framework such as accessibility, and a wide variety of resources that enhance functionality. 
 
-<img width="200px" class="rounded float-start" src="../img/AA71F71E-E3BC-46C1-9C4E-4EDEE4E68DF6.jpeg"> 
-<img width="200px" class="rounded float-start " src="../img/DEB4C1B3-77B4-49B8-96D3-C8CC8063218D.jpeg">
+<img width="200px" class="rounded float-start" src="../img/AA71F71E-E3BC-46C1-9C4E-4EDEE4E68DF6.jpeg"> &nbsp; &nbsp; <img width="200px" class="rounded float-start " src="../img/DEB4C1B3-77B4-49B8-96D3-C8CC8063218D.jpeg">
 
 <br><br><br><br><br><br>
 
