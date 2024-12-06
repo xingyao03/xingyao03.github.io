@@ -12,7 +12,7 @@ labels:
   - Problem Solving
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/6C7BDEDD-3CC0-406B-8FF4-B8F128E4E6E7_4_5005_c.jpeg">
+<img width="600px" class="rounded float-start pe-4" src="../img/16224AB1-EE84-4359-891E-146E7458A10F.jpeg">
 
 
 ## Building a City
