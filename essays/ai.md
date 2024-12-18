@@ -32,7 +32,7 @@ In-class WODs were always nerve-wracking for me, and I relied on ChatGPT for mos
 ## **Essays**
 I wrote most of the essays myself, using ChatGPT as a reference to gather information. I felt it was important to express my thoughts and reflections in my own words rather than relying heavily on AI. This approach allowed me to stay authentic while still benefiting from the additional insights AI could provide.
 
-## **Essays**
+## **Final Project**
 For the final project, I relied heavily on ChatGPT because much of the material was covered at a very fast pace, making it challenging to keep up. ChatGPT was incredibly helpful in solving problems and debugging my code, allowing me to overcome obstacles and complete the project more effectively.
 
 ## **Learning a concept / tutorial**
