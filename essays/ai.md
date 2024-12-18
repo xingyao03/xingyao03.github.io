@@ -13,7 +13,7 @@ labels:
   - ChatGPT
 ---
 
-<img width="600px" class="rounded float-start pe-4" src="../img/E61D070B-3171-473C-AF7E-519A510CD78A.webp">
+<img width="600px" class="rounded float-start pe-4" src="../img/DB709F77-6AA9-46E7-9280-C713FE3416C7.jpeg">
 
 # **Introduction**
 AI has become a valuable tool in education, particularly in Software Engineering, where it aids in tasks like code generation, debugging, and problem-solving. In this context, I have primarily used ChatGPT to enhance my learning experience. ChatGPT has been instrumental in providing instant guidance, explaining complex concepts, and offering solutions that support my understanding and application of Software Engineering principles.
@@ -63,7 +63,7 @@ As mentioned earlier, I relied heavily on ChatGPT to help debug errors and expla
 To pass this class, I had to rely heavily on AI for guidance, as there was a significant amount of material to learn in a very short period. ChatGPT played a crucial role in helping me navigate through the challenges.
 
 # **Impact on Learning and Understanding**
-<img width="600px" class="rounded float-start pe-4" src="../img/815169F8-3BFE-463F-A6BF-38D6A920EF4C.webp">
+<img width="600px" class="rounded float-start pe-4" src="../img/1A558B51-7501-4277-8D5C-306F8BD361AC.jpeg">
 The incorporation of AI, particularly ChatGPT, significantly influenced my learning experience by providing quick explanations, debugging assistance, and coding examples that helped me keep up with the fast-paced course. It enhanced my comprehension by clarifying complex concepts and filled gaps in understanding when I felt lost. While relying on AI improved my problem-solving abilities and provided essential guidance, it also challenged my understanding of software engineering concepts by occasionally introducing errors that I had to troubleshoot. Overall, AI technologies were instrumental in my learning, striking a balance between support and the need for independent critical thinking.
 
 # **Practical Applications**
