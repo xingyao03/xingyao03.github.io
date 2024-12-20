@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "UI Frameworks & Coding Standards"
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-19
+date: 2024-12-19
 published: true
 labels:
   - UI/UX Design
