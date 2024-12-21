@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/AA071639-CC7B-47B2-AF6B-D99F9D003366_4_5005_c.jpeg
+image: img/Screen Shot 2024-12-20 at 10.31.35 PM.png
 title: "Manoa TextSwap"
 date: 2024-12-12
 published: true
