@@ -15,6 +15,8 @@ summary: "Final group project for ICS 314."
 
 <img width="600px" class="rounded float-start pe-4" src="../img/txs_Landing.png">
 
+<br>
+
 # **Project Name: Manoa TextSwap**
 ### Creators: Ellie Ishii, Dhaniel Bolosan, Logan Teachout, and Xingyao He
 
@@ -33,27 +35,31 @@ In the Manoa TextSwap project, I played a pivotal role in developing the Buy pag
 # **My Work: Buy Page & Restyling**
 
 ## **Log In/ Sign Up**
-<img width="600px" class="rounded float-start pe-4" src="../img/TextSwap/txs_SignIn.png">
-<img width="600px" class="rounded float-start pe-4" src="../img/TextSwap/txs_SignUp.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/txs_SignIn.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/txs_SignUp.png">
 
 <br>
 
 ## **Change Password/ Sign Out**
-<img width="600px" class="rounded float-start pe-4" src="../img/TextSwap/txs_ChangePass.png">
-<img width="600px" class="rounded float-start pe-4" src="../img/TextSwap/txs_SignOut.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/txs_ChangePass.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/txs_SignOut.png">
 
 ## **Buy Page**
-<img width="600px" class="rounded float-start pe-4" src="../img/TextSwap/txs_Buy.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/txs_Buy.png">
 
 ### Book Details
-<img width="600px" class="rounded float-start pe-4" src="../img/TextSwap/txs_BkDetails.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/txs_BkDetails.png">
 
 <br>
 
 ## **Account Page**
-<img width="600px" class="rounded float-start pe-4" src="../img/TextSwap/txs_Acc1.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/txs_Acc1.png">
 
+<br>
 
+## **TextSwap Preview**
+
+<iframe src="https://manoa-textswap.vercel.app/" width="100%" height="600px" frameborder="0" title="TextSwap"></iframe>
 
 
 
