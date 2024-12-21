@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/E21AD2C3-14C7-43EE-9343-4E5B4D044E72_1_201_a.jpeg
+image: img/FD60B82D-C865-48A6-88E2-E39D2A1DDB85.jpeg
 title: "Social Media Network Diagram"
 date: 2024-11-17
 published: true
