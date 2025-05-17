@@ -12,7 +12,7 @@ labels:
   - Teamwork
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/87722C31-77DE-4E5A-BBFB-BEDB28B35B6C_1_201_a.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/D29BCE95-CA97-421E-B244-AEA67F28B1A4_1_201_a.jpeg">
 
 # **A Familiar Starting Point**
 Coming into ICS414, I already had some background experience from ICS314, so I was curious about what this next course would offer. At first glance, the two seemed similar—both involved working in teams to build a project from the ground up. However, as the semester went on, I realized that while ICS414 shares some structure with ICS314, it was ultimately a very different and more challenging experience. In ICS314, the final project was just one part of the course, alongside lectures, assignments, and other learning activities. In contrast, ICS414 centered entirely around building a financial model for a real client, making it the sole focus of the semester. This shift in emphasis made the work feel more serious, sustained, and high-stakes.
